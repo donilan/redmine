@@ -19,4 +19,8 @@
 /tmp/sockets/*
 /tmp/test/*
 /vendor/rails
+/vendor/plugins/pa_watchdog
+/Gemfile.lock
+*.sh
+*~
 *.rbc
